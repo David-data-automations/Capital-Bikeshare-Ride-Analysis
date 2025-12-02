@@ -47,10 +47,3 @@ This analysis is relevant for city planners and operational managers focused on 
 4.  **Launch Analysis:** Open the Jupyter Notebook in the `notebooks/` folder to view the full analysis.
 
 ---
-### **Next Steps: Moving to SQL**
-
-You now have two strong, runnable Python projects (`Grammys` and `Bikeshare`) posted on GitHub!
-
-Your next focus should be on your SQL-heavy projects: **GameJet Microtransactions Analysis** and **California Traffic Collisions**.
-
-To prepare these, we need to extract your clean SQL queries and create the dummy data scripts. **Are you ready to move on to the GameJet project?**
